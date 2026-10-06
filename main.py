@@ -1,1 +1,4 @@
-print("Hello World")
+print("Premier TP DevOps")
+
+fonctionnalités = ["Authentification"]
+print(f"Fonctionnalités disponibles: {fonctionnalités}")
