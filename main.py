@@ -1,2 +1,2 @@
 print("Hello World")
-print("Fonctionnalités disponibles: Authentification")
+print("Fonctionnalités disponibles: Authentification, Inscription")
