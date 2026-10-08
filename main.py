@@ -1,4 +1,4 @@
 print("Premier TP DevOps")
 
-fonctionnalités = ["Authentification"]
+fonctionnalités = ["Authentification, Inscription"]
 print(f"Fonctionnalités disponibles: {fonctionnalités}")
